@@ -51,7 +51,7 @@ class _GameViewState extends State<GameView> {
                 Container(
                   constraints:
                       const BoxConstraints(minWidth: 300, maxWidth: 400),
-                  height: 380,
+                  height: 410,
                   child: GridView.builder(
                     itemCount: GameConstants.iconsFigure.length * 2,
                     gridDelegate:
