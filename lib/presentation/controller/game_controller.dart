@@ -67,6 +67,7 @@ class GameController {
 
   checkSelecteds() async {
     final selecteds = _getSelecteds();
+    if (selecteds.length < 2) return;
     final isEquals = selecteds[0].id == selecteds[1].id;
 
     await Future.delayed(const Duration(milliseconds: 600));
