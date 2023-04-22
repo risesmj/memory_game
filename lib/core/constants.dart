@@ -5,7 +5,7 @@ class GameConstants {
     CommunityMaterialIcons.cat,
     CommunityMaterialIcons.car,
     CommunityMaterialIcons.castle,
-    CommunityMaterialIcons.emoticon_poop,
+    CommunityMaterialIcons.jellyfish,
     CommunityMaterialIcons.face_woman_shimmer,
     CommunityMaterialIcons.food_apple,
     CommunityMaterialIcons.koala,
